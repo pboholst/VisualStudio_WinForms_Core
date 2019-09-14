@@ -17,7 +17,7 @@ namespace BoholStreet.AppConfigFile
         /* Prerequisite
          *  1. Reference -> Add Reference -> Assemblies  -> System.Configuration
          *  2. using System.Configuration;
-         *  3. using
+         *  3. using System.Collections.Specialized;
          *  4. In App.config file add
          *      <configuration>
          *          <appSettings>
