@@ -8,5 +8,6 @@ namespace WinForms_CSharp_LookUp.Modules.JsonModule
 {
     class JsonCore
     {
+        //x
     }
 }
